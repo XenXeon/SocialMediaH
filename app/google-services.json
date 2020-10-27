@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "560550714783",
+    "firebase_url": "https://socialmediah-fbf9c.firebaseio.com",
+    "project_id": "socialmediah-fbf9c",
+    "storage_bucket": "socialmediah-fbf9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560550714783:android:9e796925cbd7fef09c31aa",
+        "android_client_info": {
+          "package_name": "com.example.socialmediah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560550714783-kcl9jvfiavn3ap1h294q4bcuk200k27u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpd0zK5Y_Tb5LKhF3wtPcCsfEoONLKujo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560550714783-kcl9jvfiavn3ap1h294q4bcuk200k27u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
